@@ -1,5 +1,5 @@
 # SENTIMENT CLASSIFICATION USING ML ALGORITHMS
-**Collaborators : **
+**Collaborators : ** 
 1)Mahek Vanjani(B22EE088)
 2)Priyansh Saxena(B22EE075)
 3)Anushka Desai(B22EE012)
