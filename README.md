@@ -24,4 +24,4 @@ This project aims to perform sentiment analysis using various machine learning a
 - Ensemble Learning: Bagging & Boosting
 
 ## Dataset
-We used the [Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset) from Kaggle. The dataset contains text data labeled with sentiment categories.
+We used the [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset) from Kaggle. The dataset contains text data labeled with sentiment categories.
