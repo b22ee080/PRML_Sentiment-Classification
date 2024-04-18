@@ -14,7 +14,6 @@ This project aims to perform sentiment analysis using various machine learning a
 
 ## Models Used
 - Decision Tree
-- Linear Regression
 - Logistic Regression
 - Support Vector Machine (SVM)
 - Principle Component Analysis (PCA)
@@ -25,4 +24,3 @@ This project aims to perform sentiment analysis using various machine learning a
 
 ## Dataset
 We used the [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset) from Kaggle. The dataset contains text data labeled with sentiment categories.
-Colab Link: [Colab](https://colab.research.google.com/drive/1ug2b57UxgkH2TPAd7KxL-AcucrVMr5lM?usp=chrome_ntp)
