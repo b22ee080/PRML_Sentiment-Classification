@@ -16,8 +16,6 @@ This project aims to perform sentiment analysis using various machine learning a
 - Decision Tree
 - Logistic Regression
 - Support Vector Machine (SVM)
-- Principle Component Analysis (PCA)
-- Linear Discriminant Analysis (LDA)
 - K-Nearest Neighbors (KNN)
 - Bayesian Learning
 - Ensemble Learning: Bagging & Boosting
