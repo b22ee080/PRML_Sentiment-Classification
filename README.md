@@ -3,11 +3,11 @@
 ## Collaborators
 - Mahek Vanjani (B22EE088)
 - Priyansh Saxena (B22EE075)
-- Anushka Desai (B22EE012)
+- Himanshu Sharma (B22EE080)
 - Vasishtha Pandya (B22CS036)
 - Saumya Shah (B22CS074)
 - Vidhi Jain (B22CS083)
-- Himanshu Sharma (B22EE080)
+- Anushka Desai (B22EE012)
 
 ## Overview
 This project aims to perform sentiment analysis using various machine learning algorithms on the provided dataset. The goal is to classify text into different sentiment categories such as positive, negative, or neutral.
